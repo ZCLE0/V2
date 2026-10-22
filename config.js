@@ -9,7 +9,7 @@
    ===================================================================== */
 window.MERCH_CONFIG = {
   // Link Ứng dụng web của Apps Script (kết thúc bằng /exec). Triển khai "Phiên bản mới" thì link giữ nguyên.
-  sheetApi: "https://script.google.com/macros/s/AKfycbzyEZI4gXqyFenR6K29MqeYi2SuRnsFE_cPOdMuvPWoCrNMOCvKPBPnXA6n24cruA0T/exec",
+  sheetApi: "https://script.google.com/macros/s/AKfycbyIS6XvGytETK_AEAa4bm4Rl7LliW-XqRo-oQO8IUEehYzdIjsiKUd9K6A1qs7w3u1r/exec",
 
   // Dự phòng khi chưa có sheetApi: đơn móc khóa thường gửi về email qua FormSubmit.
   orderEmail: "email-cua-ban@gmail.com",
